@@ -12,5 +12,3 @@
 #### For these two worksheets, the graph depicts a line chart for the average percentage on one axis and bar charts for the average Home Value and average `Required_Minimum_Income_Required_To_Buy` on a second axis.
 
 #### The next two worksheets recreate the graphs from the ATTOM article. A key step is to isolate the specific county names in the ATTOM graph using a filter. Then, similar to the previous graphs, the counties are sorted based on the average percentages.
-
-#### Note: The last worksheet does not contain Maui County as shown in the ATTOM article graphs because the dataset does not contain records for Maui County, HI

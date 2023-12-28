@@ -10,8 +10,8 @@ ATTOM Article Link: https://www.attomdata.com/news/market-trends/figuresfriday/t
 #### Our assignment was to recreate these ranked lists and graphs using Excel, Tableau, and SQL.
 
 ### DATA
-#### The datasource used to create the worksheets and dashboard was imported and joined from various Excel spreadsheets that were provided along with the assignment.
-### It contains the following columns:
+#### The dataset used to create the graphs and charts in Excel, Tableau, and SQL was joined from various Excel spreadsheets that were provided along with the assignment.
+### The dataset contains the following columns:
 - County - the name of the county
 - State - the abbreviation of the state name
 - County_State - a calculated field that concatenates the county and state names into 'county, state'

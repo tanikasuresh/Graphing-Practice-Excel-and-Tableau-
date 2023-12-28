@@ -7,7 +7,7 @@ ATTOM Article Link: https://www.attomdata.com/news/market-trends/figuresfriday/t
 ![image](https://www.attomdata.com/wp-content/uploads/2023/10/Top-10-Q3-2023-Affordability-Report-Affordable.png.webp)
 ![image](https://www.attomdata.com/wp-content/uploads/2023/10/Top-10-Q3-2023-Affordability-Report-Unaffordable.png.webp)
 
-#### Our assignment was to recreate these ranked lists and graphs using Excel, Tableau, and SQL.
+#### Our assignment was to recreate these ranked lists and graphs using Excel, Tableau, and SQL. These ATTOM graphs can only be recreated by manually filtering for the counties listed in the graph. Please note that the recreated Bottom 10 graphs will not contain Maui County as shown in the ATTOM article graph because the dataset used does not contain records for Maui County, HI.
 
 ### DATA
 #### The dataset used to create the graphs and charts in Excel, Tableau, and SQL was joined from various Excel spreadsheets that were provided along with the assignment.

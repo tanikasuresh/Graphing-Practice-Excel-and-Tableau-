@@ -4,6 +4,6 @@
 
 ATTOM Article Link: https://www.attomdata.com/news/market-trends/figuresfriday/top-10-u-s-housing-markets-considered-affordable-in-q3-2023/
 
-[TOP 10 U.S.](https://www.attomdata.com/wp-content/uploads/2023/10/Top-10-Q3-2023-Affordability-Report-Affordable.png.webp)https://www.attomdata.com/wp-content/uploads/2023/10/Top-10-Q3-2023-Affordability-Report-Affordable.png.webp
+![image](https://www.attomdata.com/wp-content/uploads/2023/10/Top-10-Q3-2023-Affordability-Report-Affordable.png.webp)
 
 #### Our assignment was to recreate these ranked lists and graphs using Excel, Tableau, and SQL.

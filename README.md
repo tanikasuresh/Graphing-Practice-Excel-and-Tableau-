@@ -15,7 +15,7 @@ ATTOM Article Link: https://www.attomdata.com/news/market-trends/figuresfriday/t
  The second task was to ignore the specific counties that were shown in the ATTOM article and create new Top 10 and Bottom 10 graphs using all US counties which will account for any differences in the data used to derive the two calculations.
 
 ### DATA
- The dataset used to create the graphs and charts in Excel, Tableau, and SQL was joined from various Excel spreadsheets that were provided along with the assignment.
+ The dataset `DW_COUNTY` used to create the graphs and charts in Excel, Tableau, and SQL was joined from various Excel spreadsheets that were provided along with the assignment.
  The dataset contains the following columns:
 - County - the name of the county
 - State - the abbreviation of the state name

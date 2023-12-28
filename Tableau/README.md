@@ -6,4 +6,4 @@
 - State - the abbreviation of the state name
 - County_State - a calculated field that concatenates the county and state names into 'county, state'
 - Date - the date in which the data is from (the date is set as the last day of each month and year)
-- Home Value - the average housing value from Zillow 
+- Home Value - the average Zillow housing value based on the month and year

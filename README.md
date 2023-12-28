@@ -1,22 +1,22 @@
 # Home-Affordability
 ### Assignment
-#### During the Fall 2023 semester, I took Management Information Systems where we learned how to use Excel, Tableau, and SQL.
-#### For our final project, the professor shared an article from attomdata.com titled "Top 10 U.S. Housing Markets Considered Affordable in Q3 2023". The article contains two lists/graphs of the Top 10 and Bottom 10 counties based on the percent of annual income required to buy a house in all U.S. counties. 
+ During the Fall 2023 semester, I took Management Information Systems where we learned how to use Excel, Tableau, and SQL.
+ For our final project, the professor shared an article from attomdata.com titled "Top 10 U.S. Housing Markets Considered Affordable in Q3 2023". The article contains two lists/graphs of the Top 10 and Bottom 10 counties based on the percent of annual income required to buy a house in all U.S. counties. 
 
 ATTOM Article Link: https://www.attomdata.com/news/market-trends/figuresfriday/top-10-u-s-housing-markets-considered-affordable-in-q3-2023/
 
 ![image](https://www.attomdata.com/wp-content/uploads/2023/10/Top-10-Q3-2023-Affordability-Report-Affordable.png.webp)
 ![image](https://www.attomdata.com/wp-content/uploads/2023/10/Top-10-Q3-2023-Affordability-Report-Unaffordable.png.webp)
 
-#### The first task was to recreate these ranked lists and graphs using Excel, Tableau, and SQL. These ATTOM graphs can only be recreated by manually filtering for the counties listed in the graph and appropriately sorting.
+ The first task was to recreate these ranked lists and graphs using Excel, Tableau, and SQL. These ATTOM graphs can only be recreated by manually filtering for the counties listed in the graph and appropriately sorting.
 
-#### Please note that when recreating the second graph, which we will call Bottom 10, it will not contain Maui County as shown in the ATTOM article graph because the dataset used does not contain records for Maui County, Hawaii.
+ Please note that when recreating the second graph, which we will call Bottom 10, it will not contain Maui County as shown in the ATTOM article graph because the dataset used does not contain records for Maui County, Hawaii.
 
-The second task was to ignore the specific counties that were shown in the ATTOM article and create new Top 10 and Bottom 10 graphs using all US counties which will account for any differences in the data used to derive the two calculations.
+ The second task was to ignore the specific counties that were shown in the ATTOM article and create new Top 10 and Bottom 10 graphs using all US counties which will account for any differences in the data used to derive the two calculations.
 
 ### DATA
-#### The dataset used to create the graphs and charts in Excel, Tableau, and SQL was joined from various Excel spreadsheets that were provided along with the assignment.
-### The dataset contains the following columns:
+ The dataset used to create the graphs and charts in Excel, Tableau, and SQL was joined from various Excel spreadsheets that were provided along with the assignment.
+ The dataset contains the following columns:
 - County - the name of the county
 - State - the abbreviation of the state name
 - County_State - a calculated field that concatenates the county and state names into 'county, state'

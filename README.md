@@ -29,6 +29,7 @@ ATTOM Article Link: https://www.attomdata.com/news/market-trends/figuresfriday/t
 - Required Minimum Income to Buy - a calculation to determine the "time-varying, county-specific minimum annual income to purchase a home under a 30-year fixed-rate loan with a 20% down payment and a 28% down payment"  
   <img src="Miscellaneous/Minimum_Income_To_Purchase_Calculation.png" width="600" height="70">
 - Percentage of Annual Income Required To Buy - a second calculation to determine the "time-varying county-specific pecentage of annual income required to purchase a home under a 30-year fixed-rate loan with a 20% down payment"
+  <img src="Miscellaneous/Percentage.png" width="600" height="70">
 
 ### Final Comments
 First, we have successfully recreated the graphs/charts from the ATTOM article using Excel, Tableau, and SQL. Furthermore, all four charts/graphs are identical across the three mediums. 

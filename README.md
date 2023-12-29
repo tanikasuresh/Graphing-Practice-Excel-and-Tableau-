@@ -27,4 +27,10 @@ ATTOM Article Link: https://www.attomdata.com/news/market-trends/figuresfriday/t
 - Annual Premium - average annual home insurance premium by zipcode
 - Income Per Capita - average annual personal income for each county
 - Required Minimum Income to Buy - a calculation to determine the "time-varying, county-specific minimum annual income to purchase a home under a 30-year fixed-rate loan with a 20% down payment and a 28% down payment"
+  
 - Percentage of Annual Income Required To Buy - a second calculation to determine the "time-varying county-specific pecentage of annual income required to purchase a home under a 30-year fixed-rate loan with a 20% down payment"
+
+### Final Comments
+First, we have successfully recreated the graphs/charts from the ATTOM article using Excel, Tableau, and SQL. Furthermore, all four charts/graphs are identical across the three mediums. 
+
+Regarding the 2023 Q3 Top 10 and Bottom 10 graphs, we see that several counties in North Dakota seem to be more affordable with lower percentage of your annual income needed to buy a house, whereas the 10 least affordable counties to buy a house in all require more than 80% of your annual income to make the purchase.

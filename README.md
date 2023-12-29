@@ -27,7 +27,7 @@ ATTOM Article Link: https://www.attomdata.com/news/market-trends/figuresfriday/t
 - Annual Premium - average annual home insurance premium by zipcode
 - Income Per Capita - average annual personal income for each county
 - Required Minimum Income to Buy - a calculation to determine the "time-varying, county-specific minimum annual income to purchase a home under a 30-year fixed-rate loan with a 20% down payment and a 28% down payment"
-  ![](Miscellaneous/Minimum_Income_To_Purchase_Calculation.png | width = 50)
+  ![](Miscellaneous/Minimum_Income_To_Purchase_Calculation.png | width = "50")
 - Percentage of Annual Income Required To Buy - a second calculation to determine the "time-varying county-specific pecentage of annual income required to purchase a home under a 30-year fixed-rate loan with a 20% down payment"
 
 ### Final Comments

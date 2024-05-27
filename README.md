@@ -8,7 +8,7 @@ ATTOM Article Link: https://www.attomdata.com/news/market-trends/figuresfriday/t
 ![image](https://www.attomdata.com/wp-content/uploads/2023/10/Top-10-Q3-2023-Affordability-Report-Affordable.png.webp)
 ![image](https://www.attomdata.com/wp-content/uploads/2023/10/Top-10-Q3-2023-Affordability-Report-Unaffordable.png.webp)
 
- The first task was to recreate these ranked lists and graphs using Excel, Tableau, and SQL. These ATTOM graphs can only be recreated by manually filtering for the counties listed in the graph and appropriately sorting.
+ The first task was to recreate these ranked lists and graphs using Excel and Tableau. These ATTOM graphs can only be recreated by manually filtering for the counties listed in the graph and appropriately sorting.
 
  Please note that when recreating the second graph, which we will call Bottom 10, it will not contain Maui County as shown in the ATTOM article graph because the dataset used does not contain records for Maui County, Hawaii.
 
@@ -32,6 +32,6 @@ ATTOM Article Link: https://www.attomdata.com/news/market-trends/figuresfriday/t
   <img src="Miscellaneous/Percentage.png" width="600" height="70">
 
 ### Final Comments
-First, we have successfully recreated the graphs/charts from the ATTOM article using Excel, Tableau, and SQL. Furthermore, all four charts/graphs are identical across the three mediums. 
+First, we have successfully recreated the graphs/charts from the ATTOM article using Excel and Tableau. Furthermore, all four charts/graphs are identical across both mediums. 
 
 Regarding the 2023 Q3 Top 10 and Bottom 10 graphs, we see that several counties in North Dakota seem to be more affordable with lower percentage of your annual income needed to buy a house, whereas the 10 least affordable counties to buy a house in all require more than 80% of your annual income to make the purchase.
